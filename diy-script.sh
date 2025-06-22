@@ -87,7 +87,7 @@ git_sparse_clone main https://github.com/linkease/istore luci
 
 
 # 监控
-git_sparse_clone main https://github.com/brvphoenix/luci-app-wrtbwmon luci-app-wrtbwmon
+git_sparse_clone master https://github.com/brvphoenix/luci-app-wrtbwmon luci-app-wrtbwmon
 
 # 在线用户
 git_sparse_clone main https://github.com/haiibo/packages luci-app-onliner
